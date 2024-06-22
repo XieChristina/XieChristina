@@ -4,6 +4,8 @@ I'm a second-year financial analysis risk management (FARM) student at the Unive
 
 Currently seeking Fall 2024 internships 😄
 
+- 📫 How to reach me: christinax200@gmail.com
+
 <!--
 **XieChristina/XieChristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
