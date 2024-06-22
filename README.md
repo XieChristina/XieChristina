@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Christina 👋
+
+I'm a second-year financial analysis risk management (FARM) student at the University of Waterloo, interested in making cool projects!
+
+Projects focused on finance/cs✨
 
 <!--
 **XieChristina/XieChristina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
