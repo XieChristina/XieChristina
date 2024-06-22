@@ -1,6 +1,6 @@
 ## Hi there, I'm Christina 👋
 
-I'm a second-year financial analysis risk management (FARM) student at the University of Waterloo, interested in making cool projects!
+I'm a second-year financial analysis risk management (FARM) student at the University of Waterloo, interested in making cool projects and software dev!
 
 Currently seeking Fall 2024 internships 😄
 
