@@ -2,7 +2,7 @@
 
 I'm a second-year financial analysis risk management (FARM) student at the University of Waterloo, interested in ML/AI, software development, and data science!
 
-Currently seeking Fall 2024 internships 😄
+Currently seeking Summer 2025 internships 😄
 
 - 📫 How to reach me: christinax200@gmail.com
 
