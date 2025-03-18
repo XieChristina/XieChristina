@@ -1,7 +1,5 @@
 ## Hi there, I'm Christina 👋
 
-Currently seeking Summer 2025 internships 😄
-
 - 📫 How to reach me: christinax200@gmail.com
 
 <!--
